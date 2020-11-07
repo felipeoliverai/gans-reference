@@ -1,4 +1,4 @@
-### GANs applying landscape
+### GAN's  apply landscape
 <hr>
 <br>
 
