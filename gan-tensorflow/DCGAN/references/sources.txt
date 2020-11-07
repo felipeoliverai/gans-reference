@@ -1,1 +1,3 @@
 https://www.tensorflow.org/tutorials/generative/dcgan
+<br>
+https://www.kaggle.com/fkdplc/celeba-dcgan-for-generating-faces
